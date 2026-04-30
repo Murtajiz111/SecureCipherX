@@ -39,7 +39,6 @@ void ProcessManagement::executeTasks() {
         // } else {
         //     // Fork failed
         //     std::cerr << "Fork failed" << std::endl;
-        //     exit(1);
         // }
     }
 }
